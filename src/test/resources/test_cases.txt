@@ -1,0 +1,3 @@
+http://localhost:8183/query?q=Union(Descendants(372733002), Descendants(372913009))
+http://localhost:8183/query?q=Descendants(372733002)
+http://localhost:8183/getExpressionID?exp=85919009|disorder of intestine|:{363698007|finding site|=66754008|appendix|,116676008|assoc morph|=23583003|inflammation|}
