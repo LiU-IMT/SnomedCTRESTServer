@@ -4,6 +4,7 @@ A config.xml file needs to be added to /SnomedCTExpressionRepository/src/test/re
 This file contains server port, database login information and path to SNOMED CT OWL file. 
 An example is given below:
 
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
 	<database>
@@ -18,3 +19,4 @@ An example is given below:
 		<port>8183</port>
 	</server>
 </configuration>
+```
